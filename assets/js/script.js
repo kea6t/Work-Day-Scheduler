@@ -1,6 +1,4 @@
+// Get the current date and time
+var currDay = document.querySelector("#currentDay");
 
-var calendarSchedule = function() {
-    
-}
-
-var currDay = moment().format("MMM Do YYYY, h:mm:ss a");
+currDay.textContent = moment().format("dddd, MMM Do YYYY, h:mm a");
