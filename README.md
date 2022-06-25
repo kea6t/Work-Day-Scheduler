@@ -40,4 +40,4 @@ This simple calendar application was design to allow a user to save events for e
 ## Contribution
 Made with ❤️ by Kenneth E Asay Jr 🔥🌌🌳🦝🏃
 
-###  &copy; 2022 Run Buddy, Inc.
+###  &copy; 2022 Work Day Scheduler
