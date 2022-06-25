@@ -1,4 +1,9 @@
+var tasks = {};
 // Get the current date and time
-var currDay = document.querySelector("#currentDay");
+$(document).ready(function() {
+    setInterval(() => {
+        var currDay = moment().format("dddd, MMM Do YYYY, h:mm:ss a");
+        $("#currentDay").text(currDay);
+        }, 1000);
+});
 
-currDay.textContent = moment().format("dddd, MMM Do YYYY, h:mm a");
