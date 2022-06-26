@@ -13,6 +13,21 @@ textarea{
   padding: 10px;
 }
 
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  border: 1px solid;
+  border-radius: 3px;
+  margin-bottom: 10%;
+  
+}
+
+ul.list-group {
+    min-height: 130px;
+  }
+
 .jumbotron {
   text-align: center;
   background-color: transparent;

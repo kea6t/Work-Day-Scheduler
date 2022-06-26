@@ -31,7 +31,10 @@ This simple calendar application was design to allow a user to save events for e
 
 
 
-
+## Resources
+https://getbootstrap.com/docs/4.3/utilities/colors/#background-gradient - for background colors
+https://getbootstrap.com/docs/4.3/layout/grid/ - for grid layout and idea for the timeblocks layout
+https://www.w3schools.com/jquery/event_ready.asp - reading through jQuery and learned about event ready which helped with displaying the time of day when the page loads up
 
 
 
